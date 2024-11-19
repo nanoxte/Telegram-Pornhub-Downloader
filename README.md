@@ -46,15 +46,6 @@ cd Telegram-Pornhub-Downloader
 pip install -r requirements.txt
 ```
 
-فایل `requirements.txt` را با محتوای زیر ایجاد کنید:
-
-```
-python-telegram-bot
-yt-dlp
-requests
-beautifulsoup4
-```
-
 ### 3. تنظیم توکن ربات تلگرام
 
 فایل `main.py` را باز کرده و `'TOKEN'` را با توکن ربات خود که از **@BotFather** دریافت کرده‌اید، جایگزین کنید:
