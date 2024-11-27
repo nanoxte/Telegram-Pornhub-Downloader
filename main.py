@@ -7,7 +7,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 from threading import Thread
 import yt_dlp
 
-TOKEN = 'TOKEN' # Token
+TOKEN = '7050622921:AAFTho868fxMRS03fyluB6xGrSBUFSPzKco' # Token
 
 def start(update: Update, context: CallbackContext):
     update.message.reply_text("سلام! لینک جستجو یا ویدیو را بفرستید.")
